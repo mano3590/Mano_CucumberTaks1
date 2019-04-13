@@ -1,7 +1,7 @@
 
 @tag
 Feature: User Login into Khan Acadamy Login Page
-  I want to use this template for my feature file
+  
 
   @tag1
   Scenario: User enter into the Khan Acadamy Login page
